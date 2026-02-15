@@ -30,7 +30,17 @@ KEY FINDINGS:
 - K-Means clustering grouped faces with similar colour characteristics
 - The template face was classified into the closest cluster based on its colour features
 
-PLOTS: 
+PLOTS:
+
+<img width="953" height="599" alt="faces" src="https://github.com/user-attachments/assets/b2a3a6c0-aae0-454f-9b6d-0d59643d7e06" />
+<img width="1358" height="739" alt="image" src="https://github.com/user-attachments/assets/3e6b0a74-40e7-4c32-a692-6f100d2fa3de" />
+<img width="1354" height="730" alt="image" src="https://github.com/user-attachments/assets/c152bd01-e542-4334-943b-87edd32c0d21" />
+<img width="296" height="318" alt="shashi tharoor" src="https://github.com/user-attachments/assets/bd65f2c2-bd4f-4a1a-8ee2-4713d4314233" />
+<img width="1350" height="732" alt="image" src="https://github.com/user-attachments/assets/fa584776-543b-4417-a3f3-8f3cb45459ec" />
+<img width="1350" height="728" alt="image" src="https://github.com/user-attachments/assets/ef25effe-91e4-4dde-a35f-c3d026cfa3a9" />
+
+
+
 
 
 
